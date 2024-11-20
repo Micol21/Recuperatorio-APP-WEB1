@@ -1,8 +1,4 @@
-
-
-// script.js
-
-document.addEventListener('DOMContentLoaded', () => {
+window.addEventListener('load', () => {
     // Elementos del DOM donde se mostrarán las cotizaciones
     const compraValores = document.getElementById('compra-valores');
     const ventaValores = document.getElementById('venta-valores');
